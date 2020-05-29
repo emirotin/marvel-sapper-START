@@ -1,7 +1,7 @@
 {
-  "name": "marvel-ref-sapper",
+  "name": "marvel-sapper-starter",
   "private": true,
-  "description": "Education project imlementation",
+  "description": "Education project implementation",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
